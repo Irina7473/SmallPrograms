@@ -1,3 +1,3 @@
-# SmallPrograms
+# FilesInFolder
 
 Программа для перемещения и копирования файлов
